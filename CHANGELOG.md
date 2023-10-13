@@ -1,4 +1,4 @@
-# CHANGELOG v0.1.0
+# CHANGELOG v0.1.1
 
 ## Friday, October 13 2023
 
